@@ -1,5 +1,6 @@
 # 가상환경 source ~/Downloads/openvino/python/model/bin/activate
 # 실행파일 python3 demo.py -i 0 -d CPU
+# demo.py 파일의 위치를 잘 확인 할것 ~/Downloads/openvino/python
 # Exportable code
 
 Exportable code is a .zip archive that contains simple demo to get and visualize result of model inference.
