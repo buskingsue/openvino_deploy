@@ -5,6 +5,10 @@
 ## 
 ## otx export --work_dir ./20250318_015512/ --config /home/kds/training_extensions/src/otx/recipe/classification/multi_class_cls/tv_mobilenet_v3_small.yaml --checkpoint 20250318_015512/best_checkpoint.ckpt --data_root ../flower_photos/
 
+## otx export #  이상감지
+## otx export --data_root ./bottle --checkpoint ./otx-workspace/2
+0250322_010659/best_checkpoint.ckpt
+
 # Exportable code
 
 Exportable code is a .zip archive that contains simple demo to get and visualize result of model inference.
