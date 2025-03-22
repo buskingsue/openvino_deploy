@@ -1,6 +1,6 @@
 # 가상환경 source ~/Downloads/openvino/python/model/bin/activate
 # 실행파일 python3 demo.py -i 0 -d CPU
-# demo.py 파일의 위치를 잘 확인 할것 ~/Downloads/openvino/python
+# demo.py 파일의 위치를 잘 확인 할것 ~D드라이브/openvino/python
 ##
 ## otx deploy --load-weights ./outputs/export/openvino.xml -output ./outputs/deploy/
 ## 
